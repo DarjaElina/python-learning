@@ -27,3 +27,28 @@ def sum(num_1, num_2):
 print(sum(4, 5))
 
 # if function doesn't return anything, it automatically returns None
+
+# Docstrings
+
+def show_cat(cat):
+  '''
+  Info: this function prints a cat from paramaters.
+  '''
+  print(f"Here is the cat: {cat}")
+
+show_cat("🐈")
+
+# help(show_cat) # 👇
+
+# Help on function show_cat in module __main__:
+
+# show_cat(cat)
+#     Info: this function prints a cat from paramaters.
+
+print(show_cat.__doc__) # Same
+
+# Clean code
+def is_even(num):
+  return num % 2 == 0
+
+print(is_even(50))
