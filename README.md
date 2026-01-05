@@ -1,3 +1,9 @@
-Personal repo for learning Python based on [this ZTM Udemy Course](https://www.udemy.com/course/complete-python-developer-zero-to-mastery)
+# 🐍 Python Learning Repository
 
-README to be updated later 🦭
+This is a personal learning repository for practicing and improving my Python skills.
+
+The project is based on the **Zero to Mastery – Complete Python Developer** course on Udemy:
+
+Course link: https://www.udemy.com/course/complete-python-developer-zero-to-mastery
+
+The README and project structure will be updated as the learning progresses. 🦭
